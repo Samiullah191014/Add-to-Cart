@@ -1,0 +1,26 @@
+.nav-item{
+    font-size: 20px;
+    
+}
+.size{
+    font-size: 30px;
+}
+
+.window-scroll{
+    background-color: rgb(63, 63, 90);
+    box-shadow: 0 1rem 2rem rgba(0,0,0,0.3);
+  }
+
+  .red:hover{
+    background-color: red;
+    border: 1px solid red;
+    border-radius: 30px;
+
+  }
+
+  .bgrow{
+    background-image: url("E:\AddToCartFolder\add-cart\src\images\travel6.jpg");
+    background-repeat: no-repeat;
+   background-size: cover;
+   height: 70vh;
+  }
